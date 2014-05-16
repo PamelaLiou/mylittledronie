@@ -1,0 +1,12 @@
+Drone Selfie
+
+Web Sockets code originally written by Andy Sigler for ITP Javascript Club's Serial Communication in Browser
+
+Using NodeCopter, AR Drone, Arduino, PNG stream, and Gif modules together to create a drone selfie. 
+
+To do:
+
+. Push PNG Stream and Gif modules
+. Arduino REC button
+. Merge with Neil's codebase
+. auto upload to flask framework *MAYBE*
